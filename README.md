@@ -1,6 +1,6 @@
 ### Real-Time Emotion Detector CNN 🧠📸
 
-A deep learning application that identifies human facial expressions in real-time using a live camera feed. Powered by a Convolutional Neural Network (CNN) built with Python and TensorFlow/Keras, this system captures video frames, localizes faces, and maps expressions to emotional states using the FER-2013 benchmark dataset.
+A deep learning application that identifies human facial expressions in real-time using a live camera feed. Powered by a Convolutional Neural Network (CNN) built with Python and TensorFlow, this system captures video frames, localizes faces, and maps expressions to emotional states using the FER-2013 benchmark dataset.
 
 * * *
 
@@ -17,7 +17,7 @@ A deep learning application that identifies human facial expressions in real-tim
 ### 🛠️ Built With
 
 *   **Python (100.0%)**: Core project runtime language.
-*   **TensorFlow / Keras**: Used for layer definition, pipeline handling, and neural network compilation.
+*   **TensorFlow**: Used for layer definition, pipeline handling, and neural network compilation.
 *   **OpenCV**: Drives real-time webcam rendering, video processing loops, bounding boxes, and label rendering.
 *   **Kaglehub**: Automates dataset challenge infrastructure acquisition directly from Kaggle platforms.
 
